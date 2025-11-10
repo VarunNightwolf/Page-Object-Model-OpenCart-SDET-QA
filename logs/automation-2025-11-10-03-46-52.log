@@ -1,0 +1,4 @@
+03:46:52.363 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting Account Registration Page Test
+03:46:52.484 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+03:46:52.866 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+03:46:52.871 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...

@@ -1,0 +1,4 @@
+01:06:30.628 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\fanof\eclipse-workspace\OpencartV121\grid-docker.xml"
+01:06:30.954 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\fanof\eclipse-workspace\OpencartV121\grid-docker.xml
+
